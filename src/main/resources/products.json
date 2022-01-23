@@ -1,0 +1,22 @@
+[
+  {
+      "referenceList": "In the WHO list of Essential Medicines 2021",
+      "therapeuticAction": "Antiviral medicine active against herpes virus",
+      "indications": "Treatment of herpes keratitis",
+      "instructionsForUse": "For the prevention and treatment of neonatal herpes keratitis, ganciclovir may temporarily replace aciclovir in case of supply constraints",
+      "storage": "Below 25ºC",
+      "description": "ACICLOVIR, 3%, eye ointment, sterile, 4.5g, tube",
+      "productCode": "DEXOACIV3T4",
+      "accountCode": "60000",
+      "isRelatedTo": "DEXOGANC1G-\nSTD GANCICLOVIR, 0.15%, eye gel, sterile",
+      "productId": "11451",
+      "MSF Supply": "checked",
+      "MSF Log": "checked",
+      "APU": "checked",
+      "Casier Départ": "unchecked",
+      "KSU": "checked"
+    }
+
+
+
+]

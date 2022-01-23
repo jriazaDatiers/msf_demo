@@ -1,0 +1,16 @@
+description;//*[@id="product_details"]/h1
+ocs_oca;//*[@id="product_details"]/div[7]/table/tbody/tr[2]/td[2]/div[1]/input
+ocs_ocb;//*[@id="product_details"]/div[7]/table/tbody/tr[2]/td[2]/div[2]/input
+ocs_ocba;//*[@id="product_details"]/div[7]/table/tbody/tr[2]/td[2]/div[3]/input
+ocs_ocg;//*[@id="product_details"]/div[7]/table/tbody/tr[2]/td[2]/div[4]/input
+ocs_ocp;//*[@id="product_details"]/div[7]/table/tbody/tr[2]/td[2]/div[5]/input
+scs_msfs;//*[@id="product_details"]/div[7]/table/tbody/tr[3]/td[2]/div[1]/input
+scs_msfl;//*[@id="product_details"]/div[7]/table/tbody/tr[3]/td[2]/div[2]/input
+scs_apu;//*[@id="product_details"]/div[7]/table/tbody/tr[3]/td[2]/div[3]/input
+scs_casierdepart;//*[@id="product_details"]/div[7]/table/tbody/tr[3]/td[2]/div[4]/input
+scs_ksu;//*[@id="product_details"]/div[7]/table/tbody/tr[3]/td[2]/div[5]/input
+ocv_oca;//*[@id="product_details"]/div[7]/table/tbody/tr[4]/td[2]/div[1]/input
+ocv_ocb;//*[@id="product_details"]/div[7]/table/tbody/tr[4]/td[2]/div[2]/input
+ocv_ocba;//*[@id="product_details"]/div[7]/table/tbody/tr[4]/td[2]/div[3]/input
+ocv_ocg;//*[@id="product_details"]/div[7]/table/tbody/tr[4]/td[2]/div[4]/input
+ocv_ocp;//*[@id="product_details"]/div[7]/table/tbody/tr[4]/td[2]/div[5]/input
