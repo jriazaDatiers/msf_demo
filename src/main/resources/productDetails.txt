@@ -10,3 +10,4 @@ definition
 dpecifications
 instructionsforuse
 msfrequirements
+productcode
